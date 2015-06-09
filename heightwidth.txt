@@ -1,0 +1,2296 @@
+Aarvindh0.bmp: 
+top, btm, left, right = ((53, 267), (367, 248), (230, 212), (366, 305))
+top depth: 2822.0
+btm depth: 2532.0
+left depth: 2690.0
+right depth: 0.0
+height, width = (1467.920073872353, 2751.655346675566)
+
+Aarvindh6.bmp: 
+top, btm, left, right = ((56, 297), (364, 337), (150, 253), (363, 338))
+top depth: 2845.0
+btm depth: 2649.0
+left depth: 2917.0
+right depth: 2649.0
+height, width = (1468.2595643057157, 1113.4815214202163)
+
+abe0.bmp: 
+top, btm, left, right = ((72, 297), (384, 316), (244, 253), (205, 349))
+top depth: 2967.0
+btm depth: 2690.0
+left depth: 2869.0
+right depth: 2967.0
+height, width = (1529.0453325054114, 513.9813437946093)
+
+abe5.bmp: 
+top, btm, left, right = ((58, 298), (387, 315), (191, 245), (227, 350))
+top depth: 2799.0
+btm depth: 2532.0
+left depth: 2754.0
+right depth: 2733.0
+height, width = (1519.2973375572108, 514.9957509787454)
+
+ah19.bmp: 
+top, btm, left, right = ((132, 307), (324, 304), (241, 266), (194, 331))
+top depth: 4243.0
+btm depth: 3952.0
+left depth: 4192.0
+right depth: 4192.0
+height, width = (1369.6106872478092, 566.9177139874994)
+
+akki12.bmp: 
+top, btm, left, right = ((92, 340), (323, 375), (183, 310), (194, 384))
+top depth: 3738.0
+btm depth: 3583.0
+left depth: 3821.0
+right depth: 3659.0
+height, width = (1463.4861942968992, 498.3582148145913)
+
+amelia7.bmp: 
+top, btm, left, right = ((87, 336), (311, 333), (199, 300), (226, 364))
+top depth: 3821.0
+btm depth: 3659.0
+left depth: 3821.0
+right depth: 3779.0
+height, width = (1438.6789335192243, 447.863844190916)
+
+angelina lam0.bmp: 
+top, btm, left, right = ((85, 309), (368, 317), (238, 257), (167, 343))
+top depth: 2893.0
+btm depth: 0.0
+left depth: 2822.0
+right depth: 2967.0
+height, width = (2997.8913342936044, 562.5265260740479)
+
+angelina lam3.bmp: 
+top, btm, left, right = ((80, 315), (360, 325), (219, 261), (148, 343))
+top depth: 2917.0
+btm depth: 2754.0
+left depth: 2822.0
+right depth: 2967.0
+height, width = (1360.4043672668026, 551.9064308206788)
+
+angie6.bmp: 
+top, btm, left, right = ((129, 323), (328, 302), (234, 290), (226, 348))
+top depth: 4093.0
+btm depth: 3864.0
+left depth: 3998.0
+right depth: 3864.0
+height, width = (1370.6151235493166, 413.81931144199)
+
+angie9.bmp: 
+top, btm, left, right = ((127, 322), (328, 322), (238, 289), (227, 347))
+top depth: 4045.0
+btm depth: 3864.0
+left depth: 3998.0
+right depth: 3907.0
+height, width = (1361.6003044623296, 405.991514530866)
+
+arslan5.bmp: 
+top, btm, left, right = ((96, 331), (329, 309), (193, 287), (222, 363))
+top depth: 3952.0
+btm depth: 3698.0
+left depth: 3864.0
+right depth: 3779.0
+height, width = (1547.7073758595145, 534.0509124894539)
+
+arslan9.bmp: 
+top, btm, left, right = ((96, 326), (329, 354), (230, 287), (199, 365))
+top depth: 3998.0
+btm depth: 3698.0
+left depth: 3864.0
+right depth: 3907.0
+height, width = (1571.8513609015763, 550.7948535434374)
+
+arvind2.bmp: 
+top, btm, left, right = ((64, 300), (318, 313), (174, 255), (182, 343))
+top depth: 3475.0
+btm depth: 3309.0
+left depth: 3510.0
+right depth: 3546.0
+height, width = (1483.9183558961106, 523.1184039077401)
+
+arvind4.bmp: 
+top, btm, left, right = ((64, 300), (318, 315), (167, 256), (185, 343))
+top depth: 3475.0
+btm depth: 3309.0
+left depth: 3510.0
+right depth: 3440.0
+height, width = (1484.5857568840547, 530.5539800143283)
+
+Asanka0.bmp: 
+top, btm, left, right = ((65, 300), (377, 339), (226, 258), (376, 345))
+top depth: 2942.0
+btm depth: 2690.0
+left depth: 2893.0
+right depth: 2733.0
+height, width = (1529.1223628583778, 831.3318121056184)
+
+Asanka3.bmp: 
+top, btm, left, right = ((48, 311), (380, 349), (211, 262), (200, 363))
+top depth: 2777.0
+btm depth: 2532.0
+left depth: 2822.0
+right depth: 2733.0
+height, width = (1532.7016722742687, 486.5478285454658)
+
+asanka8.bmp: 
+top, btm, left, right = ((92, 283), (324, 306), (208, 246), (184, 312))
+top depth: 0.0
+btm depth: 3698.0
+left depth: 3821.0
+right depth: 3821.0
+height, width = (3738.53880611883, 451.87505096912287)
+
+bandara9.bmp: 
+top, btm, left, right = ((74, 319), (333, 355), (219, 275), (207, 371))
+top depth: 3406.0
+btm depth: 3246.0
+left depth: 3406.0
+right depth: 3277.0
+height, width = (1490.5703512062676, 561.8481594720499)
+
+banti0.bmp: 
+top, btm, left, right = ((92, 398), (340, 393), (164, 353), (222, 429))
+top depth: 0.0
+btm depth: 3019.0
+left depth: 3277.0
+right depth: 3157.0
+height, width = (3071.74042403781, 530.4260660453419)
+
+banti2.bmp: 
+top, btm, left, right = ((90, 382), (340, 408), (170, 354), (223, 429))
+top depth: 3186.0
+btm depth: 3046.0
+left depth: 3277.0
+right depth: 3129.0
+height, width = (1337.6504826941068, 514.0818703719358)
+
+bbk_husband1.bmp: 
+top, btm, left, right = ((94, 315), (331, 331), (189, 266), (195, 346))
+top depth: 3698.0
+btm depth: 3583.0
+left depth: 3659.0
+right depth: 3698.0
+height, width = (1473.6617892233728, 495.76297902694745)
+
+bbk_husband4.bmp: 
+top, btm, left, right = ((66, 311), (337, 302), (209, 264), (150, 354))
+top depth: 3277.0
+btm depth: 3073.0
+left depth: 3277.0
+right depth: 3341.0
+height, width = (1484.5581417926671, 604.7306724745471)
+
+bbk_husband8.bmp: 
+top, btm, left, right = ((62, 321), (337, 304), (200, 266), (145, 358))
+top depth: 3246.0
+btm depth: 0.0
+left depth: 3186.0
+right depth: 3277.0
+height, width = (3395.852521291244, 592.8602228995118)
+
+bhavya0.bmp: 
+top, btm, left, right = ((89, 250), (380, 249), (156, 215), (154, 292))
+top depth: 3046.0
+btm depth: 0.0
+left depth: 3046.0
+right depth: 3046.0
+height, width = (3180.4807768331466, 394.8439790137029)
+
+bhavya1.bmp: 
+top, btm, left, right = ((90, 250), (380, 249), (248, 211), (254, 294))
+top depth: 3046.0
+btm depth: 0.0
+left depth: 2917.0
+right depth: 2967.0
+height, width = (3179.2008369196787, 407.8667551084652)
+
+bi11.bmp: 
+top, btm, left, right = ((82, 331), (342, 341), (222, 291), (151, 363))
+top depth: 0.0
+btm depth: 0.0
+left depth: 3309.0
+right depth: 3341.0
+height, width = (0.0, 569.9006761040163)
+
+bingbing7.bmp: 
+top, btm, left, right = ((79, 323), (319, 342), (211, 291), (214, 356))
+top depth: 3779.0
+btm depth: 3546.0
+left depth: 3698.0
+right depth: 3583.0
+height, width = (1527.0910185833548, 418.1502651428439)
+
+bingkun10.bmp: 
+top, btm, left, right = ((68, 247), (331, 260), (197, 216), (211, 291))
+top depth: 3157.0
+btm depth: 3019.0
+left depth: 3129.0
+right depth: 3073.0
+height, width = (1393.7981244513517, 410.698273800176)
+
+chada1.bmp: 
+top, btm, left, right = ((104, 266), (345, 295), (179, 219), (183, 312))
+top depth: 3583.0
+btm depth: 0.0
+left depth: 3621.0
+right depth: 3698.0
+height, width = (3706.84076515233, 568.6665447034989)
+
+chada4.bmp: 
+top, btm, left, right = ((83, 265), (348, 255), (164, 221), (170, 325))
+top depth: 3309.0
+btm depth: 3073.0
+left depth: 3309.0
+right depth: 3373.0
+height, width = (1460.9574256646129, 581.7070602916198)
+
+chaochien0.bmp: 
+top, btm, left, right = ((86, 292), (378, 307), (244, 240), (179, 331))
+top depth: 0.0
+btm depth: 2777.0
+left depth: 2967.0
+right depth: 3157.0
+height, width = (2852.7906837596115, 600.3436592008632)
+
+chaochien3.bmp: 
+top, btm, left, right = ((57, 280), (383, 310), (227, 232), (155, 337))
+top depth: 2822.0
+btm depth: 2532.0
+left depth: 2649.0
+right depth: 2845.0
+height, width = (1523.796994536685, 616.9038676158466)
+
+ChenFui2.bmp: 
+top, btm, left, right = ((77, 315), (388, 334), (167, 254), (173, 354))
+top depth: 2777.0
+btm depth: 2426.0
+left depth: 2777.0
+right depth: 2777.0
+height, width = (1422.0346843417992, 468.18927829547914)
+
+ChenFui3.bmp: 
+top, btm, left, right = ((74, 311), (388, 332), (168, 256), (173, 355))
+top depth: 2777.0
+btm depth: 2426.0
+left depth: 2777.0
+right depth: 2733.0
+height, width = (1436.380687609977, 464.48370273546806)
+
+chengbin0.bmp: 
+top, btm, left, right = ((55, 288), (325, 271), (250, 253), (243, 341))
+top depth: 0.0
+btm depth: 3129.0
+left depth: 0.0
+right depth: 3216.0
+height, width = (3179.571514411481, 3216.013353827862)
+
+chengbin4.bmp: 
+top, btm, left, right = ((57, 282), (325, 332), (250, 253), (244, 338))
+top depth: 3277.0
+btm depth: 3129.0
+left depth: 0.0
+right depth: 3186.0
+height, width = (1498.6984478295492, 3186.01496607753)
+
+chengyao4.bmp: 
+top, btm, left, right = ((37, 316), (392, 331), (155, 252), (150, 356))
+top depth: 0.0
+btm depth: 2392.0
+left depth: 2733.0
+right depth: 2690.0
+height, width = (2467.323922975357, 479.33797444088)
+
+chengyao6.bmp: 
+top, btm, left, right = ((54, 300), (389, 334), (277, 254), (164, 349))
+top depth: 2822.0
+btm depth: 2532.0
+left depth: 2777.0
+right depth: 2845.0
+height, width = (1563.648144304263, 703.0717006435674)
+
+chenqiang16.bmp: 
+top, btm, left, right = ((68, 301), (332, 327), (146, 260), (158, 338))
+top depth: 3621.0
+btm depth: 3440.0
+left depth: 3698.0
+right depth: 3698.0
+height, width = (1608.5225779534535, 491.19296532046843)
+
+cheryl1.bmp: 
+top, btm, left, right = ((60, 348), (347, 334), (221, 296), (201, 378))
+top depth: 2869.0
+btm depth: 2690.0
+left depth: 2845.0
+right depth: 2845.0
+height, width = (1374.8660508919886, 404.2335461659851)
+
+cheryl6.bmp: 
+top, btm, left, right = ((54, 328), (349, 306), (206, 281), (202, 367))
+top depth: 2845.0
+btm depth: 2649.0
+left depth: 2777.0
+right depth: 2777.0
+height, width = (1401.7384680867558, 402.35138711385076)
+
+chia1.bmp: 
+top, btm, left, right = ((132, 304), (323, 290), (223, 269), (236, 331))
+top depth: 4296.0
+btm depth: 4142.0
+left depth: 4243.0
+right depth: 4296.0
+height, width = (1378.8617465116092, 454.69198508528484)
+
+chiti17.bmp: 
+top, btm, left, right = ((101, 374), (345, 413), (213, 351), (214, 422))
+top depth: 3246.0
+btm depth: 3019.0
+left depth: 3246.0
+right depth: 3073.0
+height, width = (1333.3154273859063, 403.0564311298495)
+
+cindy2.bmp: 
+top, btm, left, right = ((100, 284), (319, 267), (188, 247), (230, 315))
+top depth: 0.0
+btm depth: 3475.0
+left depth: 0.0
+right depth: 0.0
+height, width = (3529.2313571940945, 0.0)
+
+Conan4.bmp: 
+top, btm, left, right = ((51, 295), (370, 324), (224, 255), (206, 336))
+top depth: 3101.0
+btm depth: 2754.0
+left depth: 2967.0
+right depth: 2967.0
+height, width = (1644.0262080335674, 414.41589210842244)
+
+Conan5.bmp: 
+top, btm, left, right = ((57, 301), (370, 317), (218, 255), (189, 337))
+top depth: 3101.0
+btm depth: 2711.0
+left depth: 2917.0
+right depth: 3046.0
+height, width = (1609.2961563846784, 449.727571859451)
+
+Cuijinqiang2.bmp: 
+top, btm, left, right = ((45, 254), (343, 274), (340, 209), (122, 292))
+top depth: 2993.0
+btm depth: 2822.0
+left depth: 2822.0
+right depth: 3046.0
+height, width = (1494.6826191243536, 1171.5684526030664)
+
+Cuijinqiang5.bmp: 
+top, btm, left, right = ((46, 280), (342, 252), (119, 235), (131, 319))
+top depth: 3019.0
+btm depth: 2822.0
+left depth: 3129.0
+right depth: 3129.0
+height, width = (1496.226191457557, 446.8640772112879)
+
+dat0.bmp: 
+top, btm, left, right = ((97, 316), (340, 341), (236, 269), (235, 354))
+top depth: 0.0
+btm depth: 3406.0
+left depth: 3659.0
+right depth: 3546.0
+height, width = (3451.822081433295, 532.7545993778326)
+
+dat6.bmp: 
+top, btm, left, right = ((59, 308), (347, 337), (221, 258), (214, 361))
+top depth: 0.0
+btm depth: 2942.0
+left depth: 3046.0
+right depth: 3019.0
+height, width = (2987.445388420253, 528.8372435413747)
+
+dat9.bmp: 
+top, btm, left, right = ((62, 313), (348, 335), (222, 262), (217, 362))
+top depth: 3129.0
+btm depth: 2917.0
+left depth: 3019.0
+right depth: 3019.0
+height, width = (1496.099042436531, 508.70734126563286)
+
+dejun8.bmp: 
+top, btm, left, right = ((90, 327), (343, 354), (203, 281), (206, 368))
+top depth: 3406.0
+btm depth: 3216.0
+left depth: 3406.0
+right depth: 3406.0
+height, width = (1446.1485773135817, 498.97822224738707)
+
+diana3.bmp: 
+top, btm, left, right = ((101, 294), (324, 274), (222, 254), (218, 332))
+top depth: 3583.0
+btm depth: 0.0
+left depth: 3510.0
+right depth: 0.0
+height, width = (3694.7037384140845, 3548.1254487714386)
+
+dingfeng4.bmp: 
+top, btm, left, right = ((41, 334), (378, 392), (223, 290), (373, 394))
+top depth: 2869.0
+btm depth: 2496.0
+left depth: 2822.0
+right depth: 2460.0
+height, width = (1613.731348047664, 864.9903796225942)
+
+dingfeng8.bmp: 
+top, btm, left, right = ((46, 343), (377, 313), (214, 290), (225, 385))
+top depth: 2893.0
+btm depth: 2570.0
+left depth: 2777.0
+right depth: 2799.0
+height, width = (1585.640100220438, 449.11489873378235)
+
+dingyao5.bmp: 
+top, btm, left, right = ((76, 300), (340, 305), (239, 260), (180, 328))
+top depth: 3246.0
+btm depth: 3019.0
+left depth: 3246.0
+right depth: 3216.0
+height, width = (1431.2300611065357, 492.18828186778006)
+
+dingyao6.bmp: 
+top, btm, left, right = ((76, 300), (339, 276), (239, 260), (180, 328))
+top depth: 3246.0
+btm depth: 2967.0
+left depth: 3246.0
+right depth: 3216.0
+height, width = (1430.1062369634305, 492.18828186778006)
+
+dongjian10.bmp: 
+top, btm, left, right = ((61, 331), (393, 370), (152, 271), (240, 373))
+top depth: 0.0
+btm depth: 2376.0
+left depth: 2822.0
+right depth: 2609.0
+height, width = (2454.652179635971, 667.7121244060315)
+
+dongjian11.bmp: 
+top, btm, left, right = ((57, 332), (393, 389), (187, 282), (388, 390))
+top depth: 2649.0
+btm depth: 2392.0
+left depth: 2711.0
+right depth: 2392.0
+height, width = (1481.7074026255282, 1014.9116769887385)
+
+dongjian2.bmp: 
+top, btm, left, right = ((51, 359), (389, 381), (234, 302), (235, 401))
+top depth: 0.0
+btm depth: 2496.0
+left depth: 2733.0
+right depth: 2690.0
+height, width = (2577.246642000547, 452.94690663056815)
+
+dongjian4.bmp: 
+top, btm, left, right = ((50, 358), (389, 388), (232, 300), (234, 400))
+top depth: 0.0
+btm depth: 2496.0
+left depth: 2754.0
+right depth: 2690.0
+height, width = (2579.411482920607, 461.5067347297777)
+
+dongjian51.bmp: 
+top, btm, left, right = ((84, 312), (332, 348), (166, 290), (148, 364))
+top depth: 3698.0
+btm depth: 3510.0
+left depth: 3779.0
+right depth: 3738.0
+height, width = (1550.7125521278372, 483.04693329662825)
+
+dornoosh1.bmp: 
+top, btm, left, right = ((72, 249), (332, 240), (200, 215), (210, 288))
+top depth: 3246.0
+btm depth: 3129.0
+left depth: 3157.0
+right depth: 3186.0
+height, width = (1415.4074670265777, 389.88466562347276)
+
+dornoosh2.bmp: 
+top, btm, left, right = ((72, 259), (332, 240), (205, 215), (201, 287))
+top depth: 3277.0
+btm depth: 3129.0
+left depth: 3157.0
+right depth: 3157.0
+height, width = (1429.147526235079, 383.12484724618764)
+
+dornoosh7.bmp: 
+top, btm, left, right = ((50, 262), (336, 270), (196, 212), (204, 294))
+top depth: 2967.0
+btm depth: 2845.0
+left depth: 2893.0
+right depth: 2917.0
+height, width = (1422.7341873935995, 399.89060255954917)
+
+FangXin2.bmp: 
+top, btm, left, right = ((61, 308), (370, 340), (139, 264), (153, 356))
+top depth: 3046.0
+btm depth: 2822.0
+left depth: 3073.0
+right depth: 3101.0
+height, width = (1568.9711895359478, 482.2845553094732)
+
+FangXin3.bmp: 
+top, btm, left, right = ((47, 307), (374, 315), (143, 253), (138, 353))
+top depth: 2822.0
+btm depth: 2570.0
+left depth: 2893.0
+right depth: 2893.0
+height, width = (1527.0501003002232, 487.4760974764743)
+
+FangXin5.bmp: 
+top, btm, left, right = ((48, 294), (374, 318), (141, 251), (138, 353))
+top depth: 2822.0
+btm depth: 2609.0
+left depth: 2917.0
+right depth: 2917.0
+height, width = (1529.0262372252425, 500.9371660597786)
+
+Gaofeng0.bmp: 
+top, btm, left, right = ((80, 394), (387, 440), (252, 347), (386, 447))
+top depth: 2942.0
+btm depth: 2570.0
+left depth: 2869.0
+right depth: 2609.0
+height, width = (1493.8118567623558, 776.2191417522642)
+
+Gaofeng6.bmp: 
+top, btm, left, right = ((59, 385), (391, 449), (244, 347), (389, 451))
+top depth: 2733.0
+btm depth: 2392.0
+left depth: 2733.0
+right depth: 2392.0
+height, width = (1507.0841054891034, 794.5992798827484)
+
+guangcan3.bmp: 
+top, btm, left, right = ((113, 291), (358, 314), (191, 250), (192, 335))
+top depth: 3546.0
+btm depth: 3277.0
+left depth: 3583.0
+right depth: 3621.0
+height, width = (1450.3839113334773, 513.6735679018163)
+
+guangda3.bmp: 
+top, btm, left, right = ((42, 319), (318, 375), (138, 269), (317, 376))
+top depth: 0.0
+btm depth: 3246.0
+left depth: 3475.0
+right depth: 3246.0
+height, width = (3278.0139780712875, 1214.231885229513)
+
+guowen4.bmp: 
+top, btm, left, right = ((85, 264), (319, 259), (162, 229), (154, 306))
+top depth: 3864.0
+btm depth: 0.0
+left depth: 3998.0
+right depth: 3952.0
+height, width = (4029.1140697674136, 524.8064906752552)
+
+hairong0.bmp: 
+top, btm, left, right = ((103, 309), (334, 339), (170, 280), (192, 351))
+top depth: 3864.0
+btm depth: 3621.0
+left depth: 3907.0
+right depth: 3907.0
+height, width = (1505.2944616111224, 488.95756610300106)
+
+hardy10.bmp: 
+top, btm, left, right = ((62, 284), (346, 317), (206, 236), (206, 325))
+top depth: 3373.0
+btm depth: 3129.0
+left depth: 3216.0
+right depth: 3246.0
+height, width = (1608.9195642250083, 481.9007400453495)
+
+hardy12.bmp: 
+top, btm, left, right = ((65, 284), (347, 252), (218, 236), (212, 325))
+top depth: 3406.0
+btm depth: 3073.0
+left depth: 3309.0
+right depth: 3277.0
+height, width = (1606.988811184807, 498.4385899743274)
+
+Harish2.bmp: 
+top, btm, left, right = ((71, 307), (319, 317), (140, 256), (170, 345))
+top depth: 3698.0
+btm depth: 3546.0
+left depth: 3738.0
+right depth: 3738.0
+height, width = (1541.0847116675861, 591.1443303183827)
+
+Harish9.bmp: 
+top, btm, left, right = ((74, 235), (321, 247), (170, 185), (143, 274))
+top depth: 3698.0
+btm depth: 3475.0
+left depth: 3659.0
+right depth: 3738.0
+height, width = (1536.1021745123703, 574.2101169700936)
+
+hema6.bmp: 
+top, btm, left, right = ((110, 291), (310, 288), (186, 244), (200, 322))
+top depth: 0.0
+btm depth: 3864.0
+left depth: 0.0
+right depth: 0.0
+height, width = (3903.225639479292, 0.0)
+
+ho12.bmp: 
+top, btm, left, right = ((148, 307), (323, 308), (244, 275), (240, 330))
+top depth: 4243.0
+btm depth: 4142.0
+left depth: 4243.0
+right depth: 4142.0
+height, width = (1246.7461988563423, 408.01943991786766)
+
+hooman12.bmp: 
+top, btm, left, right = ((61, 338), (291, 363), (169, 297), (187, 367))
+top depth: 4243.0
+btm depth: 4142.0
+left depth: 4243.0
+right depth: 4142.0
+height, width = (1655.215949843537, 524.0270376414729)
+
+hooman19.bmp: 
+top, btm, left, right = ((61, 340), (292, 364), (186, 298), (183, 366))
+top depth: 4192.0
+btm depth: 4093.0
+left depth: 4192.0
+right depth: 4142.0
+height, width = (1641.4712719546424, 480.35801445681483)
+
+HuangRui0.bmp: 
+top, btm, left, right = ((78, 241), (379, 230), (244, 204), (233, 296))
+top depth: 3129.0
+btm depth: 2845.0
+left depth: 3046.0
+right depth: 3046.0
+height, width = (1554.2138598620234, 474.9959143708234)
+
+HuangRui6.bmp: 
+top, btm, left, right = ((65, 253), (381, 236), (238, 209), (235, 302))
+top depth: 2967.0
+btm depth: 2690.0
+left depth: 2893.0
+right depth: 2942.0
+height, width = (1546.9546371604642, 452.6257850380879)
+
+jamesching2.bmp: 
+top, btm, left, right = ((48, 399), (384, 411), (147, 340), (190, 440))
+top depth: 2733.0
+btm depth: 2426.0
+left depth: 2869.0
+right depth: 2690.0
+height, width = (1511.9142434154728, 535.983903261092)
+
+jeff5.bmp: 
+top, btm, left, right = ((64, 323), (294, 289), (145, 276), (153, 354))
+top depth: 3952.0
+btm depth: 3864.0
+left depth: 3907.0
+right depth: 3952.0
+height, width = (1548.3141102309992, 517.9852730833267)
+
+jiaming2.bmp: 
+top, btm, left, right = ((79, 280), (382, 300), (240, 229), (238, 317))
+top depth: 0.0
+btm depth: 2733.0
+left depth: 2845.0
+right depth: 2893.0
+height, width = (2813.653216770479, 422.38314024729004)
+
+jiaming3.bmp: 
+top, btm, left, right = ((79, 280), (382, 291), (209, 227), (239, 317))
+top depth: 0.0
+btm depth: 2690.0
+left depth: 2893.0
+right depth: 2869.0
+height, width = (2772.3003366575836, 463.65000355841056)
+
+jiashi2.bmp: 
+top, btm, left, right = ((85, 297), (334, 317), (146, 248), (159, 325))
+top depth: 0.0
+btm depth: 3406.0
+left depth: 3546.0
+right depth: 3621.0
+height, width = (3448.7342535006555, 468.66641647613176)
+
+johnlau0.bmp: 
+top, btm, left, right = ((68, 357), (383, 385), (173, 302), (165, 399))
+top depth: 2733.0
+btm depth: 2532.0
+left depth: 2893.0
+right depth: 2777.0
+height, width = (1427.6463487550175, 475.5860080114387)
+
+johnlau5.bmp: 
+top, btm, left, right = ((46, 355), (387, 385), (226, 303), (225, 406))
+top depth: 2570.0
+btm depth: 2343.0
+left depth: 2609.0
+right depth: 2551.0
+height, width = (1449.645678292996, 449.4951853558131)
+
+kah1.bmp: 
+top, btm, left, right = ((139, 336), (323, 317), (242, 301), (247, 361))
+top depth: 0.0
+btm depth: 3952.0
+left depth: 0.0
+right depth: 0.0
+height, width = (3991.030657583168, 0.0)
+
+kah3.bmp: 
+top, btm, left, right = ((140, 328), (323, 342), (239, 298), (243, 359))
+top depth: 4142.0
+btm depth: 3998.0
+left depth: 4093.0
+right depth: 0.0
+height, width = (1274.779642210489, 4102.9596420082225)
+
+KangMingZhi0.bmp: 
+top, btm, left, right = ((55, 311), (375, 297), (217, 261), (230, 347))
+top depth: 2869.0
+btm depth: 2589.0
+left depth: 2777.0
+right depth: 2822.0
+height, width = (1517.4884793054748, 409.4389932328755)
+
+KangMingZhi5.bmp: 
+top, btm, left, right = ((60, 328), (373, 305), (235, 280), (372, 364))
+top depth: 2967.0
+btm depth: 2649.0
+left depth: 2893.0
+right depth: 2711.0
+height, width = (1537.5052716156092, 769.4983404746058)
+
+karthik0.bmp: 
+top, btm, left, right = ((80, 308), (326, 281), (221, 262), (209, 336))
+top depth: 0.0
+btm depth: 3546.0
+left depth: 3698.0
+right depth: 3698.0
+height, width = (3597.8770676611252, 466.6076361261533)
+
+karthika2.bmp: 
+top, btm, left, right = ((82, 345), (384, 374), (230, 295), (238, 395))
+top depth: 2690.0
+btm depth: 2392.0
+left depth: 2570.0
+right depth: 2609.0
+height, width = (1341.745626487501, 439.25411721243626)
+
+karthika6.bmp: 
+top, btm, left, right = ((85, 353), (384, 375), (244, 297), (233, 392))
+top depth: 2690.0
+btm depth: 0.0
+left depth: 2589.0
+right depth: 2570.0
+height, width = (2784.8424444047514, 415.4364621896506)
+
+Karthikeyan0.bmp: 
+top, btm, left, right = ((101, 322), (378, 356), (213, 273), (377, 362))
+top depth: 0.0
+btm depth: 2893.0
+left depth: 3186.0
+right depth: 2967.0
+height, width = (2968.9036611139963, 981.7358751195922)
+
+Karthikeyan6.bmp: 
+top, btm, left, right = ((71, 309), (383, 352), (247, 260), (239, 363))
+top depth: 2822.0
+btm depth: 2570.0
+left depth: 2754.0
+right depth: 2711.0
+height, width = (1465.4692211620545, 479.0298133152223)
+
+kasunsmall16.bmp: 
+top, btm, left, right = ((109, 330), (329, 307), (229, 294), (213, 357))
+top depth: 3952.0
+btm depth: 3738.0
+left depth: 3907.0
+right depth: 3864.0
+height, width = (1462.4620073445617, 427.91279226260593)
+
+kasunsmall19.bmp: 
+top, btm, left, right = ((108, 324), (329, 308), (233, 294), (231, 356))
+top depth: 3907.0
+btm depth: 3738.0
+left depth: 3952.0
+right depth: 3864.0
+height, width = (1449.3393984873546, 419.3789545568259)
+
+kasun_big2.bmp: 
+top, btm, left, right = ((92, 325), (323, 349), (214, 276), (218, 355))
+top depth: 4142.0
+btm depth: 3907.0
+left depth: 4093.0
+right depth: 3952.0
+height, width = (1612.5430201991753, 559.5358854529719)
+
+ken1.bmp: 
+top, btm, left, right = ((86, 328), (295, 349), (198, 290), (198, 353))
+top depth: 0.0
+btm depth: 3907.0
+left depth: 4045.0
+right depth: 4093.0
+height, width = (3922.7612005998235, 432.6526791908864)
+
+Kennard0.bmp: 
+top, btm, left, right = ((59, 329), (350, 310), (219, 284), (196, 362))
+top depth: 3157.0
+btm depth: 2893.0
+left depth: 2967.0
+right depth: 3073.0
+height, width = (1531.9280461412106, 425.94084262801056)
+
+Kennard4.bmp: 
+top, btm, left, right = ((44, 333), (353, 348), (180, 282), (217, 365))
+top depth: 2993.0
+btm depth: 2690.0
+left depth: 2893.0
+right depth: 2869.0
+height, width = (1540.0128936612334, 442.9561929984991)
+
+Kevin0.bmp: 
+top, btm, left, right = ((63, 272), (390, 302), (236, 219), (223, 321))
+top depth: 2893.0
+btm depth: 2570.0
+left depth: 2733.0
+right depth: 2690.0
+height, width = (1562.922636258657, 476.04959074117005)
+
+Kevin3.bmp: 
+top, btm, left, right = ((61, 274), (389, 303), (230, 220), (226, 321))
+top depth: 2845.0
+btm depth: 2609.0
+left depth: 2649.0
+right depth: 2690.0
+height, width = (1546.262781513835, 451.26550107633267)
+
+Kirthika0.bmp: 
+top, btm, left, right = ((84, 256), (390, 258), (246, 209), (210, 298))
+top depth: 2822.0
+btm depth: 2496.0
+left depth: 2733.0
+right depth: 2777.0
+height, width = (1418.8323363102327, 442.1882756282068)
+
+Kirthika4.bmp: 
+top, btm, left, right = ((71, 234), (393, 270), (205, 197), (279, 294))
+top depth: 0.0
+btm depth: 2426.0
+left depth: 2669.0
+right depth: 2669.0
+height, width = (2519.1154483944424, 549.0835303314393)
+
+koh1.bmp: 
+top, btm, left, right = ((102, 329), (329, 352), (188, 295), (208, 355))
+top depth: 0.0
+btm depth: 3738.0
+left depth: 4045.0
+right depth: 3864.0
+height, width = (3778.4448281536033, 466.32835877379597)
+
+kohjapan0.bmp: 
+top, btm, left, right = ((98, 334), (329, 352), (231, 288), (204, 373))
+top depth: 0.0
+btm depth: 3698.0
+left depth: 3907.0
+right depth: 3821.0
+height, width = (3738.0120317046617, 586.6787122671464)
+
+kohjapan3.bmp: 
+top, btm, left, right = ((100, 311), (329, 319), (177, 261), (166, 345))
+top depth: 0.0
+btm depth: 3698.0
+left depth: 4045.0
+right depth: 3998.0
+height, width = (3739.3137602480097, 577.4524177303333)
+
+kumudu2.bmp: 
+top, btm, left, right = ((121, 340), (320, 349), (182, 299), (185, 363))
+top depth: 4296.0
+btm depth: 4296.0
+left depth: 4463.0
+right depth: 4350.0
+height, width = (1447.901634663089, 490.5654334999422)
+
+lang13.bmp: 
+top, btm, left, right = ((89, 279), (345, 273), (231, 234), (229, 307))
+top depth: 0.0
+btm depth: 3019.0
+left depth: 3157.0
+right depth: 3129.0
+height, width = (3082.3198518416234, 390.4982633677866)
+
+lang8.bmp: 
+top, btm, left, right = ((83, 272), (344, 286), (221, 228), (210, 304))
+top depth: 3277.0
+btm depth: 3129.0
+left depth: 3157.0
+right depth: 3129.0
+height, width = (1432.2909780650725, 410.4158714865307)
+
+LeeMinHian0.bmp: 
+top, btm, left, right = ((90, 320), (368, 322), (241, 271), (241, 355))
+top depth: 3019.0
+btm depth: 2733.0
+left depth: 2893.0
+right depth: 2869.0
+height, width = (1389.2775046748798, 409.03444967723516)
+
+LeeMinHian2.bmp: 
+top, btm, left, right = ((91, 327), (368, 320), (231, 271), (241, 355))
+top depth: 3019.0
+btm depth: 2733.0
+left depth: 2893.0
+right depth: 2845.0
+height, width = (1384.4056180034222, 413.43644157416225)
+
+lema6.bmp: 
+top, btm, left, right = ((54, 306), (325, 272), (159, 247), (157, 340))
+top depth: 0.0
+btm depth: 0.0
+left depth: 0.0
+right depth: 0.0
+height, width = (0.0, 0.0)
+
+lennis1.bmp: 
+top, btm, left, right = ((82, 325), (327, 326), (219, 282), (219, 349))
+top depth: 3440.0
+btm depth: 3309.0
+left depth: 3510.0
+right depth: 3406.0
+height, width = (1413.3948642761247, 407.5838183887369)
+
+lerkaleng0.bmp: 
+top, btm, left, right = ((118, 301), (380, 294), (262, 256), (263, 328))
+top depth: 3129.0
+btm depth: 2845.0
+left depth: 3019.0
+right depth: 2967.0
+height, width = (1351.3540753668956, 370.4794973261436)
+
+lerkaleng2.bmp: 
+top, btm, left, right = ((81, 319), (388, 313), (239, 267), (253, 352))
+top depth: 2733.0
+btm depth: 2426.0
+left depth: 2609.0
+right depth: 2551.0
+height, width = (1378.8159036084119, 381.33986794163036)
+
+Lile3.bmp: 
+top, btm, left, right = ((67, 314), (385, 341), (139, 272), (237, 346))
+top depth: 2690.0
+btm depth: 2496.0
+left depth: 2777.0
+right depth: 2649.0
+height, width = (1419.2141908804, 590.0431236470938)
+
+Lile6.bmp: 
+top, btm, left, right = ((67, 301), (385, 332), (149, 272), (239, 346))
+top depth: 2690.0
+btm depth: 2496.0
+left depth: 2822.0
+right depth: 2649.0
+height, width = (1421.1732918882867, 581.0925140912875)
+
+lina5.bmp: 
+top, btm, left, right = ((96, 308), (323, 322), (184, 259), (223, 335))
+top depth: 3583.0
+btm depth: 0.0
+left depth: 0.0
+right depth: 0.0
+height, width = (3696.5990961966377, 0.0)
+
+linda10.bmp: 
+top, btm, left, right = ((121, 318), (328, 308), (209, 289), (221, 352))
+top depth: 4142.0
+btm depth: 3821.0
+left depth: 4045.0
+right depth: 3998.0
+height, width = (1441.5321858693985, 438.52235210713735)
+
+linda4.bmp: 
+top, btm, left, right = ((116, 319), (328, 316), (205, 291), (231, 352))
+top depth: 4045.0
+btm depth: 3864.0
+left depth: 3907.0
+right depth: 3952.0
+height, width = (1436.3011061332777, 439.1972674333056)
+
+linhchi0.bmp: 
+top, btm, left, right = ((123, 352), (324, 344), (191, 323), (245, 376))
+top depth: 3907.0
+btm depth: 3738.0
+left depth: 4093.0
+right depth: 3821.0
+height, width = (1317.4482502495528, 578.2235916460432)
+
+linhchi7.bmp: 
+top, btm, left, right = ((115, 315), (334, 312), (242, 279), (247, 335))
+top depth: 3659.0
+btm depth: 3475.0
+left depth: 3659.0
+right depth: 3621.0
+height, width = (1340.0989971241142, 348.54597254949925)
+
+LiqiangNie11.bmp: 
+top, btm, left, right = ((79, 322), (340, 318), (200, 281), (195, 368))
+top depth: 3546.0
+btm depth: 3309.0
+left depth: 3583.0
+right depth: 3510.0
+height, width = (1545.2524147267275, 526.7234773633483)
+
+liushuang1.bmp: 
+top, btm, left, right = ((45, 316), (349, 336), (135, 261), (129, 353))
+top depth: 0.0
+btm depth: 2609.0
+left depth: 2777.0
+right depth: 2845.0
+height, width = (2650.8698547247755, 438.79020388975675)
+
+liushuang2.bmp: 
+top, btm, left, right = ((92, 309), (342, 298), (200, 267), (192, 339))
+top depth: 3440.0
+btm depth: 3157.0
+left depth: 3373.0
+right depth: 3277.0
+height, width = (1436.3757719095518, 421.53641945875)
+
+liusi1.bmp: 
+top, btm, left, right = ((96, 273), (350, 297), (237, 240), (234, 311))
+top depth: 0.0
+btm depth: 3073.0
+left depth: 3309.0
+right depth: 3277.0
+height, width = (3130.8481216818377, 398.52429277081876)
+
+Longkai3.bmp: 
+top, btm, left, right = ((84, 267), (376, 283), (236, 224), (185, 304))
+top depth: 3246.0
+btm depth: 2917.0
+left depth: 3046.0
+right depth: 3157.0
+height, width = (1568.9596198569157, 500.02681010578624)
+
+Longkai4.bmp: 
+top, btm, left, right = ((48, 310), (380, 340), (183, 264), (142, 359))
+top depth: 2845.0
+btm depth: 2532.0
+left depth: 2845.0
+right depth: 2822.0
+height, width = (1563.7652690592568, 494.10188767358324)
+
+lucas11.bmp: 
+top, btm, left, right = ((56, 317), (327, 338), (164, 273), (180, 352))
+top depth: 3406.0
+btm depth: 0.0
+left depth: 3440.0
+right depth: 3277.0
+height, width = (3574.2455149048865, 494.7256777351468)
+
+lucas15.bmp: 
+top, btm, left, right = ((58, 320), (327, 338), (209, 274), (188, 352))
+top depth: 3373.0
+btm depth: 0.0
+left depth: 3341.0
+right depth: 3277.0
+height, width = (3535.6268981302483, 456.0177018158365)
+
+Luoqi0.bmp: 
+top, btm, left, right = ((39, 324), (373, 342), (129, 271), (120, 360))
+top depth: 0.0
+btm depth: 2649.0
+left depth: 2967.0
+right depth: 2917.0
+height, width = (2712.5984437650413, 446.8209161924229)
+
+luoqi1.bmp: 
+top, btm, left, right = ((68, 237), (329, 258), (207, 206), (142, 285))
+top depth: 3621.0
+btm depth: 3406.0
+left depth: 3510.0
+right depth: 3621.0
+height, width = (1590.1165345932714, 620.23292620142)
+
+Luoqi3.bmp: 
+top, btm, left, right = ((59, 311), (370, 332), (148, 271), (147, 353))
+top depth: 3186.0
+btm depth: 2822.0
+left depth: 3246.0
+right depth: 3157.0
+height, width = (1643.17487658474, 454.7716817415632)
+
+lusong5.bmp: 
+top, btm, left, right = ((78, 270), (335, 240), (221, 231), (187, 312))
+top depth: 3583.0
+btm depth: 3341.0
+left depth: 0.0
+right depth: 3510.0
+height, width = (1545.742252412854, 3529.2622198383733)
+
+Maitreya11.bmp: 
+top, btm, left, right = ((57, 342), (373, 377), (227, 281), (370, 379))
+top depth: 0.0
+btm depth: 2690.0
+left depth: 2917.0
+right depth: 2799.0
+height, width = (2759.8357022019545, 837.0890201252613)
+
+Maitreya13.bmp: 
+top, btm, left, right = ((56, 343), (373, 376), (227, 281), (372, 377))
+top depth: 3019.0
+btm depth: 2711.0
+left depth: 2917.0
+right depth: 2733.0
+height, width = (1588.5852622204668, 837.3941323451781)
+
+mao17.bmp: 
+top, btm, left, right = ((73, 284), (347, 294), (165, 240), (138, 325))
+top depth: 3246.0
+btm depth: 3019.0
+left depth: 3277.0
+right depth: 3277.0
+height, width = (1483.9968225654702, 492.08521291419777)
+
+matt0.bmp: 
+top, btm, left, right = ((105, 332), (328, 298), (214, 285), (231, 362))
+top depth: 4142.0
+btm depth: 3864.0
+left depth: 4093.0
+right depth: 3998.0
+height, width = (1563.0767665112244, 548.4550094713545)
+
+matt3.bmp: 
+top, btm, left, right = ((106, 326), (328, 346), (228, 287), (227, 363))
+top depth: 4296.0
+btm depth: 3998.0
+left depth: 4093.0
+right depth: 4093.0
+height, width = (1604.8743204260716, 523.5404034563657)
+
+matt6.bmp: 
+top, btm, left, right = ((108, 328), (328, 349), (228, 287), (228, 363))
+top depth: 4243.0
+btm depth: 3998.0
+left depth: 4093.0
+right depth: 4045.0
+height, width = (1570.1233397530702, 523.7861527288131)
+
+Mengdi1.bmp: 
+top, btm, left, right = ((80, 386), (382, 406), (238, 342), (232, 421))
+top depth: 2893.0
+btm depth: 2570.0
+left depth: 2822.0
+right depth: 2733.0
+height, width = (1440.1324097196375, 374.6746059432009)
+
+mengdi16.bmp: 
+top, btm, left, right = ((83, 346), (338, 329), (153, 296), (157, 378))
+top depth: 0.0
+btm depth: 3157.0
+left depth: 3406.0
+right depth: 3341.0
+height, width = (3198.2112257765143, 471.42019673190885)
+
+Mengdi5.bmp: 
+top, btm, left, right = ((84, 367), (381, 388), (234, 327), (210, 405))
+top depth: 2893.0
+btm depth: 2649.0
+left depth: 2822.0
+right depth: 2822.0
+height, width = (1420.2014968659153, 387.7511877232317)
+
+MianMian0.bmp: 
+top, btm, left, right = ((71, 255), (373, 284), (230, 221), (233, 314))
+top depth: 2711.0
+btm depth: 2496.0
+left depth: 2649.0
+right depth: 2690.0
+height, width = (1363.5373153942064, 415.0739755400736)
+
+MianMian3.bmp: 
+top, btm, left, right = ((71, 271), (373, 271), (231, 222), (228, 315))
+top depth: 2711.0
+btm depth: 2478.0
+left depth: 2649.0
+right depth: 2690.0
+height, width = (1354.3321179931033, 415.19830624561365)
+
+MingLiang11.bmp: 
+top, btm, left, right = ((59, 311), (407, 316), (250, 253), (168, 349))
+top depth: 0.0
+btm depth: 2312.0
+left depth: 2609.0
+right depth: 2777.0
+height, width = (2401.340118594072, 595.8686588501171)
+
+minhanh1.bmp: 
+top, btm, left, right = ((94, 374), (344, 391), (250, 326), (166, 398))
+top depth: 3309.0
+btm depth: 3186.0
+left depth: 3277.0
+right depth: 3406.0
+height, width = (1386.5980828925974, 646.0464874156252)
+
+mrfrancis1.bmp: 
+top, btm, left, right = ((96, 292), (326, 277), (186, 244), (220, 321))
+top depth: 0.0
+btm depth: 0.0
+left depth: 3698.0
+right depth: 3583.0
+height, width = (0.0, 541.6821007117107)
+
+neda1.bmp: 
+top, btm, left, right = ((88, 292), (323, 291), (214, 250), (181, 316))
+top depth: 3738.0
+btm depth: 0.0
+left depth: 3659.0
+right depth: 3698.0
+height, width = (3875.4278539785337, 457.0185719621584)
+
+neda13_new_new.bmp: 
+top, btm, left, right = ((60, 292), (331, 295), (212, 252), (204, 324))
+top depth: 3309.0
+btm depth: 3186.0
+left depth: 3309.0
+right depth: 3309.0
+height, width = (1504.1140680283136, 403.4401022677565)
+
+neda2.bmp: 
+top, btm, left, right = ((88, 286), (327, 291), (219, 252), (222, 319))
+top depth: 3738.0
+btm depth: 0.0
+left depth: 3698.0
+right depth: 3738.0
+height, width = (3878.5088188072505, 417.87851686868726)
+
+neighbour13.bmp: 
+top, btm, left, right = ((102, 331), (328, 355), (205, 288), (225, 359))
+top depth: 3952.0
+btm depth: 3738.0
+left depth: 3952.0
+right depth: 3907.0
+height, width = (1503.573880160669, 491.7772266089652)
+
+neighbour8.bmp: 
+top, btm, left, right = ((102, 322), (328, 353), (205, 289), (198, 363))
+top depth: 3907.0
+btm depth: 3698.0
+left depth: 3998.0
+right depth: 3952.0
+height, width = (1491.9731049867946, 500.10959090121395)
+
+ngo30.bmp: 
+top, btm, left, right = ((88, 304), (335, 301), (187, 272), (184, 352))
+top depth: 3406.0
+btm depth: 3186.0
+left depth: 3406.0
+right depth: 3341.0
+height, width = (1406.3668852711355, 461.89137241846083)
+
+ngo35.bmp: 
+top, btm, left, right = ((76, 312), (335, 327), (187, 271), (184, 352))
+top depth: 3406.0
+btm depth: 3186.0
+left depth: 3440.0
+right depth: 3406.0
+height, width = (1477.4810985405759, 469.63953916995575)
+
+nimesha4.bmp: 
+top, btm, left, right = ((120, 348), (320, 369), (228, 308), (227, 374))
+top depth: 4243.0
+btm depth: 4142.0
+left depth: 4296.0
+right depth: 4192.0
+height, width = (1433.4936901880646, 482.4534798565459)
+
+niTi0.bmp: 
+top, btm, left, right = ((110, 325), (382, 363), (251, 293), (257, 374))
+top depth: 3186.0
+btm depth: 2777.0
+left depth: 3019.0
+right depth: 2993.0
+height, width = (1441.8359187658143, 411.93422798807455)
+
+niTi1.bmp: 
+top, btm, left, right = ((112, 337), (382, 351), (254, 293), (256, 374))
+top depth: 3246.0
+btm depth: 2777.0
+left depth: 3046.0
+right depth: 3019.0
+height, width = (1451.8235500609626, 414.6312412663246)
+
+on8.bmp: 
+top, btm, left, right = ((65, 307), (323, 294), (190, 272), (171, 345))
+top depth: 0.0
+btm depth: 3129.0
+left depth: 0.0
+right depth: 0.0
+height, width = (3166.7185363889384, 0.0)
+
+pati0.bmp: 
+top, btm, left, right = ((105, 296), (318, 315), (219, 257), (210, 329))
+top depth: 3864.0
+btm depth: 3698.0
+left depth: 3698.0
+right depth: 3779.0
+height, width = (1387.5217698646973, 458.0136179502785)
+
+pepe4.bmp: 
+top, btm, left, right = ((59, 320), (325, 345), (148, 268), (160, 365))
+top depth: 3510.0
+btm depth: 3440.0
+left depth: 3738.0
+right depth: 3738.0
+height, width = (1578.366408463264, 614.8954808315618)
+
+pepe9.bmp: 
+top, btm, left, right = ((61, 324), (325, 344), (180, 279), (197, 356))
+top depth: 3583.0
+btm depth: 3406.0
+left depth: 3583.0
+right depth: 3546.0
+height, width = (1590.166785284441, 476.6490680654056)
+
+peter23.bmp: 
+top, btm, left, right = ((83, 229), (331, 249), (186, 179), (201, 272))
+top depth: 3698.0
+btm depth: 3475.0
+left depth: 3621.0
+right depth: 3621.0
+height, width = (1542.8131039047103, 574.122263192531)
+
+peter7.bmp: 
+top, btm, left, right = ((60, 332), (309, 307), (189, 295), (193, 387))
+top depth: 3621.0
+btm depth: 3475.0
+left depth: 3698.0
+right depth: 3621.0
+height, width = (1523.0337297082037, 572.4455039485565)
+
+PhangSeeKing1.bmp: 
+top, btm, left, right = ((64, 332), (384, 353), (220, 274), (224, 377))
+top depth: 0.0
+btm depth: 2426.0
+left depth: 2589.0
+right depth: 2570.0
+height, width = (2494.954019454019, 448.3367908606063)
+
+prabhash3.bmp: 
+top, btm, left, right = ((103, 324), (321, 344), (219, 279), (227, 353))
+top depth: 4192.0
+btm depth: 4045.0
+left depth: 4192.0
+right depth: 4142.0
+height, width = (1540.1477718084348, 526.5018161066638)
+
+prabhash8.bmp: 
+top, btm, left, right = ((82, 318), (324, 294), (216, 267), (206, 352))
+top depth: 0.0
+btm depth: 0.0
+left depth: 3821.0
+right depth: 3738.0
+height, width = (0.0, 554.2937708535654)
+
+Pradeepa0.bmp: 
+top, btm, left, right = ((110, 283), (377, 284), (255, 236), (260, 310))
+top depth: 2993.0
+btm depth: 2690.0
+left depth: 2893.0
+right depth: 2845.0
+height, width = (1318.9511779219467, 366.5345938686459)
+
+Pradeepa1.bmp: 
+top, btm, left, right = ((50, 272), (390, 287), (231, 214), (240, 311))
+top depth: 2376.0
+btm depth: 2114.0
+left depth: 2266.0
+right depth: 2266.0
+height, width = (1330.2342690838914, 371.5094280311341)
+
+profyan1.bmp: 
+top, btm, left, right = ((97, 307), (330, 291), (169, 272), (176, 349))
+top depth: 3821.0
+btm depth: 3698.0
+left depth: 3998.0
+right depth: 3952.0
+height, width = (1496.115641831018, 522.0143691176443)
+
+profyan1_new.bmp: 
+top, btm, left, right = ((97, 307), (330, 291), (169, 272), (176, 349))
+top depth: 3821.0
+btm depth: 3698.0
+left depth: 3998.0
+right depth: 3952.0
+height, width = (1496.115641831018, 522.0143691176443)
+
+qiangwife2.bmp: 
+top, btm, left, right = ((100, 312), (332, 314), (227, 285), (223, 345))
+top depth: 3738.0
+btm depth: 3583.0
+left depth: 3621.0
+right depth: 3659.0
+height, width = (1452.2838823282164, 368.8587549984333)
+
+remi1.bmp: 
+top, btm, left, right = ((75, 292), (333, 245), (183, 242), (289, 322))
+top depth: 3406.0
+btm depth: 3277.0
+left depth: 3406.0
+right depth: 0.0
+height, width = (1493.6306758515136, 3468.4938631060395)
+
+remii0.bmp: 
+top, btm, left, right = ((58, 296), (433, 349), (262, 237), (252, 355))
+top depth: 2532.0
+btm depth: 2140.0
+left depth: 2376.0
+right depth: 2343.0
+height, width = (1546.9679559466633, 473.8655863008815)
+
+remii1.bmp: 
+top, btm, left, right = ((58, 304), (433, 350), (253, 235), (251, 356))
+top depth: 2570.0
+btm depth: 2140.0
+left depth: 2376.0
+right depth: 2327.0
+height, width = (1564.6273882064802, 485.009390775926)
+
+Rohit2.bmp: 
+top, btm, left, right = ((65, 286), (386, 321), (190, 233), (191, 330))
+top depth: 0.0
+btm depth: 2649.0
+left depth: 2967.0
+right depth: 2893.0
+height, width = (2726.927721323388, 491.23627954118797)
+
+ron13.bmp: 
+top, btm, left, right = ((67, 326), (292, 340), (130, 280), (170, 353))
+top depth: 4142.0
+btm depth: 3952.0
+left depth: 4192.0
+right depth: 4142.0
+height, width = (1575.4920722466622, 592.0716662650924)
+
+ron9.bmp: 
+top, btm, left, right = ((67, 324), (292, 338), (139, 277), (168, 353))
+top depth: 0.0
+btm depth: 4045.0
+left depth: 4192.0
+right depth: 4142.0
+height, width = (4059.034856404142, 577.6478367844693)
+
+roshan14.bmp: 
+top, btm, left, right = ((98, 312), (324, 312), (170, 279), (160, 353))
+top depth: 3821.0
+btm depth: 3583.0
+left depth: 3907.0
+right depth: 3907.0
+height, width = (1448.072619443283, 491.0249906818216)
+
+roshan3.bmp: 
+top, btm, left, right = ((97, 324), (324, 344), (169, 279), (172, 352))
+top depth: 0.0
+btm depth: 3659.0
+left depth: 3907.0
+right depth: 3907.0
+height, width = (3693.5339556274103, 480.3895025017204)
+
+ruchir1.bmp: 
+top, btm, left, right = ((75, 286), (331, 306), (217, 243), (155, 320))
+top depth: 0.0
+btm depth: 3309.0
+left depth: 3583.0
+right depth: 3621.0
+height, width = (3350.829143441723, 601.1730438599467)
+
+RuchirS0.bmp: 
+top, btm, left, right = ((61, 308), (366, 339), (157, 257), (151, 350))
+top depth: 3019.0
+btm depth: 2777.0
+left depth: 3101.0
+right depth: 3073.0
+height, width = (1534.869582929673, 486.396435133848)
+
+RuchirS4.bmp: 
+top, btm, left, right = ((58, 300), (366, 333), (227, 258), (153, 349))
+top depth: 3019.0
+btm depth: 2777.0
+left depth: 2967.0
+right depth: 3073.0
+height, width = (1551.254953781606, 607.8483779897847)
+
+Shahzor0.bmp: 
+top, btm, left, right = ((62, 311), (380, 355), (197, 272), (233, 371))
+top depth: 0.0
+btm depth: 0.0
+left depth: 2967.0
+right depth: 2845.0
+height, width = (0.0, 535.0113327435257)
+
+Shahzor5.bmp: 
+top, btm, left, right = ((59, 329), (380, 351), (199, 272), (234, 371))
+top depth: 0.0
+btm depth: 2690.0
+left depth: 2967.0
+right depth: 2799.0
+height, width = (2762.095237085138, 543.6439648268091)
+
+Shankar0.bmp: 
+top, btm, left, right = ((53, 290), (380, 331), (232, 237), (379, 333))
+top depth: 0.0
+btm depth: 2570.0
+left depth: 2733.0
+right depth: 2589.0
+height, width = (2638.639176564655, 796.9024374490868)
+
+Shankar6.bmp: 
+top, btm, left, right = ((38, 284), (384, 335), (186, 239), (380, 342))
+top depth: 2649.0
+btm depth: 2426.0
+left depth: 2669.0
+right depth: 2570.0
+height, width = (1531.1794222345272, 975.2664987249642)
+
+shazoh11.bmp: 
+top, btm, left, right = ((105, 327), (321, 313), (194, 283), (220, 355))
+top depth: 4192.0
+btm depth: 4093.0
+left depth: 4243.0
+right depth: 4045.0
+height, width = (1525.0340294407886, 579.5789774319359)
+
+Shermine4.bmp: 
+top, btm, left, right = ((64, 331), (356, 341), (233, 282), (228, 361))
+top depth: 2869.0
+btm depth: 2733.0
+left depth: 2893.0
+right depth: 2822.0
+height, width = (1398.801639557884, 389.2329163549096)
+
+Shermine7.bmp: 
+top, btm, left, right = ((52, 318), (358, 340), (217, 280), (215, 360))
+top depth: 2822.0
+btm depth: 2551.0
+left depth: 2733.0
+right depth: 2690.0
+height, width = (1437.8057464847664, 369.0357116347731)
+
+Shiping2.bmp: 
+top, btm, left, right = ((65, 275), (377, 302), (376, 224), (186, 312))
+top depth: 2845.0
+btm depth: 2514.0
+left depth: 2589.0
+right depth: 2799.0
+height, width = (1472.1980318853557, 954.1757231341946)
+
+Shiping3.bmp: 
+top, btm, left, right = ((64, 271), (377, 302), (198, 222), (193, 312))
+top depth: 2845.0
+btm depth: 2532.0
+left depth: 2845.0
+right depth: 2777.0
+height, width = (1478.846981430166, 439.70752009064375)
+
+shuaicheng5.bmp: 
+top, btm, left, right = ((53, 324), (374, 355), (227, 272), (142, 373))
+top depth: 3073.0
+btm depth: 2733.0
+left depth: 2869.0
+right depth: 3019.0
+height, width = (1636.3509265948535, 678.7215072514202)
+
+sim18.bmp: 
+top, btm, left, right = ((120, 299), (317, 303), (222, 260), (188, 321))
+top depth: 0.0
+btm depth: 3864.0
+left depth: 3998.0
+right depth: 4192.0
+height, width = (3901.5303100691176, 512.5352539411558)
+
+sintaro1.bmp: 
+top, btm, left, right = ((113, 321), (327, 352), (233, 295), (227, 365))
+top depth: 0.0
+btm depth: 3864.0
+left depth: 4142.0
+right depth: 3998.0
+height, width = (3903.941704467384, 504.2250858471622)
+
+songzhengwife1.bmp: 
+top, btm, left, right = ((95, 329), (331, 317), (226, 295), (215, 359))
+top depth: 3546.0
+btm depth: 3440.0
+left depth: 3546.0
+right depth: 3510.0
+height, width = (1405.7085429343622, 387.7968474321158)
+
+songzhengwife3.bmp: 
+top, btm, left, right = ((97, 325), (331, 323), (224, 295), (223, 358))
+top depth: 0.0
+btm depth: 3440.0
+left depth: 3583.0
+right depth: 3475.0
+height, width = (3479.425293844379, 391.673028279584)
+
+srikanth2.bmp: 
+top, btm, left, right = ((89, 305), (381, 338), (241, 258), (205, 355))
+top depth: 3157.0
+btm depth: 2799.0
+left depth: 3019.0
+right depth: 2967.0
+height, width = (1528.924470332082, 526.1479180862134)
+
+srikanth6.bmp: 
+top, btm, left, right = ((59, 313), (386, 341), (236, 258), (222, 367))
+top depth: 2777.0
+btm depth: 2460.0
+left depth: 2777.0
+right depth: 2733.0
+height, width = (1499.2406555535674, 513.2893723075424)
+
+Suju0.bmp: 
+top, btm, left, right = ((95, 303), (375, 316), (177, 262), (231, 341))
+top depth: 3157.0
+btm depth: 2893.0
+left depth: 3246.0
+right depth: 3046.0
+height, width = (1462.737638163887, 562.2011292052856)
+
+Suju5.bmp: 
+top, btm, left, right = ((64, 312), (381, 321), (164, 261), (236, 351))
+top depth: 0.0
+btm depth: 2532.0
+left depth: 2893.0
+right depth: 2733.0
+height, width = (2601.5255981988626, 583.3860551529233)
+
+sunju0.bmp: 
+top, btm, left, right = ((108, 286), (345, 291), (274, 244), (186, 321))
+top depth: 0.0
+btm depth: 3698.0
+left depth: 3779.0
+right depth: 3952.0
+height, width = (3764.964555505954, 774.6499561128635)
+
+sunju6.bmp: 
+top, btm, left, right = ((108, 285), (344, 277), (272, 242), (173, 316))
+top depth: 4045.0
+btm depth: 3698.0
+left depth: 3738.0
+right depth: 3952.0
+height, width = (1594.03321705949, 824.0345720194166)
+
+susan3.bmp: 
+top, btm, left, right = ((90, 299), (320, 315), (226, 260), (179, 339))
+top depth: 3475.0
+btm depth: 3406.0
+left depth: 3440.0
+right depth: 3546.0
+height, width = (1348.4769784648938, 549.14835091419)
+
+tamm6.bmp: 
+top, btm, left, right = ((111, 299), (340, 320), (238, 260), (234, 332))
+top depth: 3738.0
+btm depth: 3510.0
+left depth: 3698.0
+right depth: 3698.0
+height, width = (1435.8760468341318, 448.7791210378213)
+
+tan2.bmp: 
+top, btm, left, right = ((152, 299), (321, 297), (229, 269), (243, 323))
+top depth: 4643.0
+btm depth: 4463.0
+left depth: 4521.0
+right depth: 4463.0
+height, width = (1316.1383862828616, 430.0421468480287)
+
+tan6.bmp: 
+top, btm, left, right = ((62, 311), (334, 315), (218, 261), (237, 343))
+top depth: 3129.0
+btm depth: 2967.0
+left depth: 3101.0
+right depth: 0.0
+height, width = (1424.4811652985823, 3130.5036041244616)
+
+tan9.bmp: 
+top, btm, left, right = ((80, 314), (332, 328), (223, 264), (224, 341))
+top depth: 3373.0
+btm depth: 3277.0
+left depth: 3406.0
+right depth: 3309.0
+height, width = (1429.1838129391856, 451.70935860480006)
+
+theanh11.bmp: 
+top, btm, left, right = ((89, 244), (329, 268), (223, 210), (215, 281))
+top depth: 3864.0
+btm depth: 3621.0
+left depth: 3821.0
+right depth: 3821.0
+height, width = (1563.7060931498772, 459.47416213882184)
+
+ti4.bmp: 
+top, btm, left, right = ((42, 315), (344, 338), (188, 261), (167, 352))
+top depth: 2754.0
+btm depth: 0.0
+left depth: 2822.0
+right depth: 2822.0
+height, width = (2910.6882576424055, 443.6496266384328)
+
+Tingting0.bmp: 
+top, btm, left, right = ((77, 289), (375, 313), (189, 246), (235, 318))
+top depth: 2917.0
+btm depth: 2669.0
+left depth: 2942.0
+right depth: 2845.0
+height, width = (1442.5678071382576, 438.1652338254151)
+
+Tingting5.bmp: 
+top, btm, left, right = ((38, 279), (382, 303), (155, 231), (227, 312))
+top depth: 2532.0
+btm depth: 2312.0
+left depth: 2649.0
+right depth: 2460.0
+height, width = (1443.4140400556325, 529.0257813191307)
+
+trung12.bmp: 
+top, btm, left, right = ((52, 343), (348, 354), (198, 291), (133, 376))
+top depth: 0.0
+btm depth: 3019.0
+left depth: 3246.0
+right depth: 3309.0
+height, width = (3067.4122662595582, 599.2662879778757)
+
+trung4.bmp: 
+top, btm, left, right = ((67, 297), (335, 336), (213, 263), (201, 339))
+top depth: 0.0
+btm depth: 3073.0
+left depth: 3186.0
+right depth: 3157.0
+height, width = (3110.2614666721893, 413.30896882303205)
+
+trung7.bmp: 
+top, btm, left, right = ((50, 334), (346, 357), (127, 287), (170, 374))
+top depth: 0.0
+btm depth: 3019.0
+left depth: 3406.0
+right depth: 3216.0
+height, width = (3066.04708525586, 589.3883073094753)
+
+tung1.bmp: 
+top, btm, left, right = ((70, 327), (330, 345), (190, 279), (284, 361))
+top depth: 0.0
+btm depth: 3341.0
+left depth: 3510.0
+right depth: 0.0
+height, width = (3377.367891061009, 3541.906079985022)
+
+tung4.bmp: 
+top, btm, left, right = ((74, 328), (329, 351), (182, 279), (280, 362))
+top depth: 0.0
+btm depth: 3341.0
+left depth: 3546.0
+right depth: 0.0
+height, width = (3377.0351919051873, 3582.796528673994)
+
+Usthathini4.bmp: 
+top, btm, left, right = ((46, 317), (377, 336), (218, 270), (223, 357))
+top depth: 2733.0
+btm depth: 2496.0
+left depth: 2649.0
+right depth: 2649.0
+height, width = (1498.248593535834, 388.49176986564953)
+
+violet0.bmp: 
+top, btm, left, right = ((117, 383), (381, 402), (261, 340), (278, 416))
+top depth: 3129.0
+btm depth: 2777.0
+left depth: 2967.0
+right depth: 2967.0
+height, width = (1363.027115174316, 388.9566620796243)
+
+violet1.bmp: 
+top, btm, left, right = ((115, 385), (381, 404), (256, 342), (253, 419))
+top depth: 3101.0
+btm depth: 2799.0
+left depth: 2967.0
+right depth: 2917.0
+height, width = (1360.5671755929816, 381.39399220545204)
+
+vule0.bmp: 
+top, btm, left, right = ((44, 372), (320, 414), (131, 320), (319, 415))
+top depth: 3046.0
+btm depth: 2893.0
+left depth: 3157.0
+right depth: 2869.0
+height, width = (1424.2805635933119, 1112.271692519026)
+
+vule0_new.bmp: 
+top, btm, left, right = ((44, 372), (320, 414), (131, 320), (319, 415))
+top depth: 3046.0
+btm depth: 2893.0
+left depth: 3157.0
+right depth: 2869.0
+height, width = (1424.2805635933119, 1112.271692519026)
+
+wangxuan3.bmp: 
+top, btm, left, right = ((100, 326), (325, 347), (205, 294), (225, 356))
+top depth: 3659.0
+btm depth: 3475.0
+left depth: 3621.0
+right depth: 3546.0
+height, width = (1385.4672256624126, 402.9273600152469)
+
+wangxuan4.bmp: 
+top, btm, left, right = ((99, 332), (325, 349), (230, 294), (225, 356))
+top depth: 3698.0
+btm depth: 3475.0
+left depth: 3659.0
+right depth: 3621.0
+height, width = (1404.5746919029625, 383.76216039002264)
+
+wangyuan8.bmp: 
+top, btm, left, right = ((112, 369), (327, 371), (227, 327), (217, 389))
+top depth: 3864.0
+btm depth: 3779.0
+left depth: 3907.0
+right depth: 3864.0
+height, width = (1396.0867097636017, 411.38515985173973)
+
+weijun0.bmp: 
+top, btm, left, right = ((128, 324), (322, 345), (233, 299), (236, 358))
+top depth: 4045.0
+btm depth: 3864.0
+left depth: 3907.0
+right depth: 3907.0
+height, width = (1323.4993674979828, 388.4355990385401)
+
+weijun6.bmp: 
+top, btm, left, right = ((129, 336), (322, 340), (213, 300), (230, 357))
+top depth: 4142.0
+btm depth: 3907.0
+left depth: 3998.0
+right depth: 3907.0
+height, width = (1342.0491570149234, 408.61610169030854)
+
+xanath3.bmp: 
+top, btm, left, right = ((108, 306), (323, 291), (232, 275), (227, 345))
+top depth: 3952.0
+btm depth: 3738.0
+left depth: 3907.0
+right depth: 3952.0
+height, width = (1427.0825252735438, 464.14388233770393)
+
+xavi20.bmp: 
+top, btm, left, right = ((75, 290), (328, 310), (186, 255), (177, 336))
+top depth: 3583.0
+btm depth: 3406.0
+left depth: 3583.0
+right depth: 3583.0
+height, width = (1524.048556960282, 491.4525905797954)
+
+xavi25.bmp: 
+top, btm, left, right = ((75, 296), (326, 268), (189, 254), (145, 333))
+top depth: 3621.0
+btm depth: 3406.0
+left depth: 3583.0
+right depth: 3583.0
+height, width = (1529.586391248842, 545.9509262318501)
+
+xiangyu_gf1.bmp: 
+top, btm, left, right = ((115, 287), (350, 298), (243, 244), (230, 309))
+top depth: 3583.0
+btm depth: 3406.0
+left depth: 3440.0
+right depth: 3510.0
+height, width = (1405.897892607997, 387.01333698432126)
+
+xiangyu_gf4.bmp: 
+top, btm, left, right = ((113, 285), (350, 299), (243, 244), (216, 310))
+top depth: 3546.0
+btm depth: 3406.0
+left depth: 3475.0
+right depth: 3546.0
+height, width = (1406.5762318819018, 421.3722009994668)
+
+xiang_yu8.bmp: 
+top, btm, left, right = ((53, 267), (350, 262), (153, 218), (173, 311))
+top depth: 0.0
+btm depth: 2917.0
+left depth: 3186.0
+right depth: 3246.0
+height, width = (2988.8369868139735, 509.4549013534411)
+
+xianyi1.bmp: 
+top, btm, left, right = ((106, 292), (377, 315), (253, 241), (188, 322))
+top depth: 0.0
+btm depth: 2917.0
+left depth: 3129.0
+right depth: 3277.0
+height, width = (2993.693608101609, 572.89330461378)
+
+xianyi3.bmp: 
+top, btm, left, right = ((68, 297), (382, 316), (234, 237), (239, 334))
+top depth: 2609.0
+btm depth: 2532.0
+left depth: 2669.0
+right depth: 2711.0
+height, width = (1372.8210869423901, 437.904692655613)
+
+xiaobai30.bmp: 
+top, btm, left, right = ((114, 320), (339, 299), (169, 279), (214, 355))
+top depth: 3952.0
+btm depth: 3698.0
+left depth: 3864.0
+right depth: 3779.0
+height, width = (1490.0201895763232, 581.59169551516)
+
+xiaojian15.bmp: 
+top, btm, left, right = ((78, 335), (341, 352), (161, 288), (166, 374))
+top depth: 3510.0
+btm depth: 3277.0
+left depth: 3583.0
+right depth: 3546.0
+height, width = (1543.807589124097, 518.9168267783315)
+
+xiaolong1.bmp: 
+top, btm, left, right = ((131, 278), (341, 263), (245, 242), (227, 310))
+top depth: 3698.0
+btm depth: 3510.0
+left depth: 3583.0
+right depth: 3738.0
+height, width = (1298.2152989572685, 445.82657838884285)
+
+xiaotong8.bmp: 
+top, btm, left, right = ((76, 284), (342, 262), (224, 238), (193, 324))
+top depth: 3406.0
+btm depth: 3186.0
+left depth: 3309.0
+right depth: 3406.0
+height, width = (1515.1653076061348, 519.0343998409842)
+
+xiaotong9.bmp: 
+top, btm, left, right = ((75, 289), (343, 256), (217, 237), (205, 324))
+top depth: 3406.0
+btm depth: 3129.0
+left depth: 3309.0
+right depth: 3341.0
+height, width = (1530.225657560136, 489.62830739461515)
+
+xiawei7.bmp: 
+top, btm, left, right = ((90, 310), (333, 316), (168, 260), (206, 339))
+top depth: 0.0
+btm depth: 3440.0
+left depth: 3738.0
+right depth: 3621.0
+height, width = (3482.4975442200184, 567.4742504803488)
+
+xiawei_friend5.bmp: 
+top, btm, left, right = ((50, 328), (343, 341), (194, 276), (192, 370))
+top depth: 0.0
+btm depth: 2649.0
+left depth: 2777.0
+right depth: 2777.0
+height, width = (2686.8539060902067, 439.3998865903953)
+
+xiawei_friend8.bmp: 
+top, btm, left, right = ((47, 329), (343, 343), (189, 280), (185, 362))
+top depth: 0.0
+btm depth: 2649.0
+left depth: 2777.0
+right depth: 2733.0
+height, width = (2686.8937320386863, 384.34049217698913)
+
+xinda3.bmp: 
+top, btm, left, right = ((67, 300), (377, 328), (156, 240), (158, 340))
+top depth: 3046.0
+btm depth: 2733.0
+left depth: 3019.0
+right depth: 3129.0
+height, width = (1565.4343245235673, 519.9922717375807)
+
+xinda8.bmp: 
+top, btm, left, right = ((37, 304), (385, 321), (140, 234), (140, 345))
+top depth: 0.0
+btm depth: 2359.0
+left depth: 2777.0
+right depth: 2822.0
+height, width = (2427.4598753321097, 521.1834789874657)
+
+xiuwen0.bmp: 
+top, btm, left, right = ((99, 272), (368, 258), (245, 228), (243, 308))
+top depth: 3046.0
+btm depth: 2822.0
+left depth: 2917.0
+right depth: 2967.0
+height, width = (1358.0832198749565, 393.40052124549254)
+
+xiuwen5.bmp: 
+top, btm, left, right = ((70, 282), (375, 299), (234, 223), (226, 318))
+top depth: 0.0
+btm depth: 2460.0
+left depth: 2496.0
+right depth: 2609.0
+height, width = (2526.358024525445, 412.5028753328898)
+
+yamuma12.bmp: 
+top, btm, left, right = ((87, 304), (334, 302), (226, 259), (213, 337))
+top depth: 3406.0
+btm depth: 3246.0
+left depth: 3341.0
+right depth: 3309.0
+height, width = (1407.808647854214, 445.6826695755647)
+
+yamuma3.bmp: 
+top, btm, left, right = ((66, 324), (324, 344), (180, 282), (217, 362))
+top depth: 3309.0
+btm depth: 3101.0
+left depth: 3186.0
+right depth: 0.0
+height, width = (1435.2394397954947, 3218.5998551663984)
+
+yamuma9.bmp: 
+top, btm, left, right = ((89, 336), (334, 361), (226, 300), (216, 377))
+top depth: 3475.0
+btm depth: 3216.0
+left depth: 3373.0
+right depth: 3341.0
+height, width = (1430.77436533622, 439.7601576479713)
+
+Yanchao3.bmp: 
+top, btm, left, right = ((81, 317), (383, 344), (168, 274), (205, 362))
+top depth: 3073.0
+btm depth: 0.0
+left depth: 3157.0
+right depth: 2967.0
+height, width = (3188.0720414543257, 540.3315091538233)
+
+Yanchao6.bmp: 
+top, btm, left, right = ((51, 327), (388, 342), (159, 273), (154, 370))
+top depth: 0.0
+btm depth: 2496.0
+left depth: 2893.0
+right depth: 2822.0
+height, width = (2570.3033227770547, 474.1379153052318)
+
+yanyan3.bmp: 
+top, btm, left, right = ((81, 271), (297, 252), (172, 223), (187, 296))
+top depth: 0.0
+btm depth: 3475.0
+left depth: 3510.0
+right depth: 3546.0
+height, width = (3526.7683264564416, 438.54579915571423)
+
+yipjunhoe1.bmp: 
+top, btm, left, right = ((85, 328), (373, 348), (180, 265), (178, 369))
+top depth: 3073.0
+btm depth: 0.0
+left depth: 3157.0
+right depth: 3073.0
+height, width = (3181.0954631757236, 554.7425657522786)
+
+yipjunhoe4.bmp: 
+top, btm, left, right = ((54, 331), (379, 349), (157, 263), (152, 381))
+top depth: 2690.0
+btm depth: 2426.0
+left depth: 2777.0
+right depth: 2733.0
+height, width = (1444.7312598875562, 550.390682728043)
+
+yongsoon1.bmp: 
+top, btm, left, right = ((61, 327), (326, 364), (154, 286), (136, 380))
+top depth: 3475.0
+btm depth: 3341.0
+left depth: 3698.0
+right depth: 3583.0
+height, width = (1559.3182108349308, 595.5907848690123)
+
+yongsoon10.bmp: 
+top, btm, left, right = ((62, 326), (326, 363), (148, 287), (141, 381))
+top depth: 3475.0
+btm depth: 3341.0
+left depth: 3621.0
+right depth: 3583.0
+height, width = (1553.5455822277581, 572.5668826991998)
+
+yongsoon13.bmp: 
+top, btm, left, right = ((85, 333), (323, 354), (161, 287), (146, 375))
+top depth: 3864.0
+btm depth: 3698.0
+left depth: 3907.0
+right depth: 3779.0
+height, width = (1548.047875469539, 590.2939051523979)
+
+YoongHeng0.bmp: 
+top, btm, left, right = ((54, 267), (376, 293), (149, 220), (147, 316))
+top depth: 2917.0
+btm depth: 2669.0
+left depth: 2993.0
+right depth: 3019.0
+height, width = (1560.135074133597, 483.43553875779594)
+
+YoongHeng3.bmp: 
+top, btm, left, right = ((53, 267), (376, 284), (150, 222), (141, 318))
+top depth: 2893.0
+btm depth: 2649.0
+left depth: 2967.0
+right depth: 2967.0
+height, width = (1548.9719708272883, 481.4666432906636)
+
+Yuanwei0.bmp: 
+top, btm, left, right = ((81, 308), (385, 349), (238, 264), (235, 352))
+top depth: 2967.0
+btm depth: 2733.0
+left depth: 2917.0
+right depth: 2893.0
+height, width = (1501.7551456686467, 432.38951030087736)
+
+Yuanwei5.bmp: 
+top, btm, left, right = ((59, 322), (390, 355), (237, 265), (233, 362))
+top depth: 0.0
+btm depth: 2460.0
+left depth: 2669.0
+right depth: 2570.0
+height, width = (2536.038978101715, 443.4143829414981)
+
+YuLu3.bmp: 
+top, btm, left, right = ((65, 246), (384, 265), (302, 208), (306, 289))
+top depth: 2822.0
+btm depth: 2570.0
+left depth: 2733.0
+right depth: 2733.0
+height, width = (1489.4088059770597, 373.0062521338747)
+
+YuLu4.bmp: 
+top, btm, left, right = ((65, 254), (384, 263), (314, 205), (259, 290))
+top depth: 2822.0
+btm depth: 2570.0
+left depth: 2669.0
+right depth: 2733.0
+height, width = (1486.323280240325, 454.5846367017101)
+
+yuzhao0.bmp: 
+top, btm, left, right = ((95, 312), (333, 316), (217, 268), (166, 342))
+top depth: 3821.0
+btm depth: 3698.0
+left depth: 3864.0
+right depth: 3864.0
+height, width = (1525.1299193527582, 585.4242914851832)
+
+ZhangLi3.bmp: 
+top, btm, left, right = ((94, 339), (379, 350), (249, 286), (240, 366))
+top depth: 0.0
+btm depth: 2822.0
+left depth: 3046.0
+right depth: 2967.0
+height, width = (2896.469681624277, 416.69232365196365)
+
+ZhangLi4.bmp: 
+top, btm, left, right = ((93, 328), (379, 351), (247, 286), (245, 365))
+top depth: 3073.0
+btm depth: 2822.0
+left depth: 3046.0
+right depth: 2967.0
+height, width = (1455.4808059808074, 409.38081122073464)
+
+zhengsong1.bmp: 
+top, btm, left, right = ((86, 294), (347, 285), (160, 256), (216, 328))
+top depth: 3475.0
+btm depth: 0.0
+left depth: 3510.0
+right depth: 3440.0
+height, width = (3604.8674518867783, 547.3869048666595)
+
+zhengsong8.bmp: 
+top, btm, left, right = ((65, 298), (350, 317), (173, 252), (154, 332))
+top depth: 0.0
+btm depth: 0.0
+left depth: 3186.0
+right depth: 3186.0
+height, width = (0.0, 440.99425249376793)
+
+zhilang10.bmp: 
+top, btm, left, right = ((61, 364), (342, 386), (181, 314), (187, 414))
+top depth: 3440.0
+btm depth: 3157.0
+left depth: 3406.0
+right depth: 3309.0
+height, width = (1616.403223113118, 571.0017066018069)
+
+zhilang8.bmp: 
+top, btm, left, right = ((63, 379), (342, 356), (193, 316), (187, 414))
+top depth: 0.0
+btm depth: 3129.0
+left depth: 3373.0
+right depth: 3341.0
+height, width = (3174.036716546208, 554.0718903233419)
+
+zhu2.bmp: 
+top, btm, left, right = ((81, 313), (326, 311), (213, 283), (196, 355))
+top depth: 3659.0
+btm depth: 3546.0
+left depth: 3698.0
+right depth: 3621.0
+height, width = (1505.0857552929876, 463.6188473227521)
+
+zhu3.bmp: 
+top, btm, left, right = ((73, 313), (327, 331), (218, 279), (203, 349))
+top depth: 0.0
+btm depth: 3475.0
+left depth: 3698.0
+right depth: 3698.0
+height, width = (3510.4721941007706, 445.6288993559239)
+
+zhu6.bmp: 
+top, btm, left, right = ((79, 311), (327, 337), (192, 275), (212, 349))
+top depth: 3621.0
+btm depth: 3510.0
+left depth: 3659.0
+right depth: 3659.0
+height, width = (1515.982453990217, 472.19272907467234)
+
+ZhuangJie0.bmp: 
+top, btm, left, right = ((91, 308), (381, 351), (190, 268), (176, 364))
+top depth: 2967.0
+btm depth: 2733.0
+left depth: 3073.0
+right depth: 3046.0
+height, width = (1435.9100605976016, 500.9589698476629)
+
+ZhuangJie4.bmp: 
+top, btm, left, right = ((65, 311), (387, 346), (174, 256), (165, 365))
+top depth: 2649.0
+btm depth: 2426.0
+left depth: 2799.0
+right depth: 2733.0
+height, width = (1414.8938782651733, 515.947890765142)
+
+zhuwen1.bmp: 
+top, btm, left, right = ((98, 290), (378, 311), (217, 239), (234, 317))
+top depth: 3129.0
+btm depth: 2845.0
+left depth: 3186.0
+right depth: 3073.0
+height, width = (1450.8324033073907, 447.1507369587112)
+
+zhuwen5.bmp: 
+top, btm, left, right = ((73, 296), (381, 325), (380, 248), (154, 337))
+top depth: 2845.0
+btm depth: 2609.0
+left depth: 2629.0
+right depth: 2893.0
+height, width = (1453.9446393227988, 1147.068821227696)
+
+zilei15.bmp: 
+top, btm, left, right = ((70, 274), (337, 291), (169, 226), (211, 305))
+top depth: 0.0
+btm depth: 3073.0
+left depth: 3246.0
+right depth: 3186.0
+height, width = (3121.8473606091766, 497.5352908267645)
+
